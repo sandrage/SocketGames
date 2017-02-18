@@ -1,6 +1,4 @@
-# SocketGames
-=============
-
+# **SocketGames**
 Here are my Java Socket easy exercises
 
 * Iterative Servers
